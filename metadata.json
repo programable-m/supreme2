@@ -1,0 +1,6 @@
+{
+  "name": "Taswe9",
+  "description": "نبني لك مواقع ومتاجر إلكترونية مخصصة للبيع وتحقيق أعلى عائد إعلاني",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
